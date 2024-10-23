@@ -1,0 +1,5 @@
+com\jpahibernate\example\school_management_db\repository\StudentRepository.class
+com\jpahibernate\example\school_management_db\model\Student.class
+com\jpahibernate\example\school_management_db\controller\StudentController.class
+com\jpahibernate\example\school_management_db\SchoolManagementDbApplication.class
+com\jpahibernate\example\school_management_db\service\StudentService.class
